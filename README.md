@@ -75,6 +75,8 @@ self.root.title("My Custom Focus Timer")
 ```python
 self.root.title("Focus Clock By Kingshuk Mondal (KM23MS005)")
 Replace "Focus Clock By Kingshuk Mondal (KM23MS005)" with your desired title. For example:
+self.root.title("My Custom Focus Timer")
+
 
 ```python
 self.root.title("My Custom Focus Timer")
