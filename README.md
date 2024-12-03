@@ -23,8 +23,8 @@ This application is a work in progress. Future updates will include:
 - The timer must be set in the `HH:MM:SS` format with text input. Any other format will not work.
 - If you do not set the goal text, the timer will not start.
 - Upon starting the timer, the clock may disappear. It can be accessed again by clicking the settings icon.
-- After setting everything and starting your focus timer, if you click open settings to view your remaining timer, the clock will disappear.
-- The pin window feature may occasionally not work as expected. Ensure the checkbox is selected to keep the window on top.
+- After setting everything and starting your focus timer, if you click open settings to view your remaining timer, otherwise you not see your remaining time.
+- ## Ensure the checkbox is selected to keep the window on top.
 - The full-screen mode feature may sometimes not display correctly. Ensure the checkbox next to the pin window feature is selected for full screen.
 
 ## Required Python Libraries
