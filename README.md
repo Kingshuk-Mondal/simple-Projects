@@ -14,17 +14,6 @@ Track Progress: Monitor your remaining time and stay on top of your tasks with e
 
 By integrating these features, the Focus Timer becomes an essential tool for anyone looking to enhance their productivity and focus. Try it out and see the difference it can make in your daily routine!
 
-## Getting Started
-To get started with the Focus Timer, follow these steps:
-
-Clone the Repository: Begin by cloning the repository to your local machine using the command:
-
-```bash
-git clone https://github.com/your-username/focus-timer.git
-
-Install Dependencies: Navigate to the project directory and install the required Python libraries using:
-
-
 ## Features
 - **Message Input Box**: Enter the reason for your focus session to stay motivated.
 - **Timer Clock**: Track your focus time with hour, minute, and second precision.
@@ -59,10 +48,6 @@ To run this application, you will need the following Python libraries:
 
 You can install the required libraries using `pip`:
 
-```bash
-pip install tkinter
-pip install playsound
-
 ## Customization
 You can change the window title to whatever you prefer by modifying the following line of code in the application:
 
@@ -72,6 +57,20 @@ Replace "Focus Clock By Kingshuk Mondal (KM23MS005)" with your desired title. Fo
 
 ```python
 self.root.title("My Custom Focus Timer")
+
+## Getting Started
+To get started with the Focus Timer, follow these steps:
+
+Clone the Repository: Begin by cloning the repository to your local machine using the command:
+
+```bash
+git clone https://github.com/your-username/focus-timer.git
+Install Dependencies: Navigate to the project directory and install the required Python libraries using:
+
+```bash
+pip install tkinter
+pip install playsound
+
 ## Contact and Collaboration
 We believe in the power of collaboration and great ideas. If you have any suggestions, innovative ideas, or would like to collaborate on enhancing the Focus Timer, we would love to hear from you!
 Feel free to reach out via email at 📧 km23ms005@iiserkol.ac.in. Your contributions and feedback are invaluable to us and can help make this tool even better for everyone. Let’s create something amazing together! 😊
