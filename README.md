@@ -48,15 +48,11 @@ To run this application, you will need the following Python libraries:
 
 You can install the required libraries using `pip`:
 
-## Customization
-You can change the window title to whatever you prefer by modifying the following line of code in the application:
+## Contact and Collaboration
+We believe in the power of collaboration and great ideas. If you have any suggestions, innovative ideas, or would like to collaborate on enhancing the Focus Timer, we would love to hear from you!
+Feel free to reach out via email at 📧 km23ms005@iiserkol.ac.in. Your contributions and feedback are invaluable to us and can help make this tool even better for everyone. Let’s create something amazing together! 😊
 
-```python
-self.root.title("Focus Clock By Kingshuk Mondal (KM23MS005)")
-Replace "Focus Clock By Kingshuk Mondal (KM23MS005)" with your desired title. For example:
-
-```python
-self.root.title("My Custom Focus Timer")
+Feel free to adjust and expand on this template to suit your project's needs! 😊
 
 ## Getting Started
 To get started with the Focus Timer, follow these steps:
@@ -71,9 +67,15 @@ Install Dependencies: Navigate to the project directory and install the required
 pip install tkinter
 pip install playsound
 
-## Contact and Collaboration
-We believe in the power of collaboration and great ideas. If you have any suggestions, innovative ideas, or would like to collaborate on enhancing the Focus Timer, we would love to hear from you!
-Feel free to reach out via email at 📧 km23ms005@iiserkol.ac.in. Your contributions and feedback are invaluable to us and can help make this tool even better for everyone. Let’s create something amazing together! 😊
+## Customization
+You can change the window title to whatever you prefer by modifying the following line of code in the application:
 
-Feel free to adjust and expand on this template to suit your project's needs! 😊
+```python
+self.root.title("Focus Clock By Kingshuk Mondal (KM23MS005)")
+Replace "Focus Clock By Kingshuk Mondal (KM23MS005)" with your desired title. For example:
+
+```python
+self.root.title("My Custom Focus Timer")
+
+
 
