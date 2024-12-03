@@ -60,7 +60,7 @@ To get started with the Focus Timer, follow these steps:
 Clone the Repository: Begin by cloning the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/your-username/focus-timer.git
+git clone https://github.com/Kingshuk-Mondal/focus-timer.git
 Install Dependencies: Navigate to the project directory and install the required Python libraries using:
 
 ```bash
