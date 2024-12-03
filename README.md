@@ -69,6 +69,8 @@ pip install playsound
 
 ## Customization
 You can change the window title to whatever you prefer by modifying the following line of code in the application:
+self.root.title("My Custom Focus Timer")
+
 
 ```python
 self.root.title("Focus Clock By Kingshuk Mondal (KM23MS005)")
